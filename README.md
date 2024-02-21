@@ -13,15 +13,15 @@ password: 123456aA!
 
 * Running the app using the command: 'npm start'
   
-- Admin user Guide
-As an admin user, you have additional privileges:
+- Admin user Guide - 
+as an admin user, you have additional privileges:
 
 Creating Cards: Click on the "Create Card" link to create a new memorial card.
 Editing Cards: Click on the "Edit" icon on the a card to modify its details.
 Remembering Fallen: Click on the "Remember" icon (the fire icon) to pay tribute to a fallens.
 Deleting Cards: Click on the "Delete" icon to remove a memorial card.
 
-- Guest user Guide
+- Guest user Guide - 
 Remembering Fallen: Click on the "Remember" icon (the fire icon) to pay tribute to a fallens.
 Read the stories of the fallen and honor their legacy.
 If you noticed any mistakes or unreliable information, please contact us using the details provided on the contact us page.
